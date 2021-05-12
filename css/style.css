@@ -1,0 +1,12 @@
+
+.contact {
+  border: solid 5px blue;
+}
+.name {
+  background-color: yellow;
+}
+
+.submit {
+  padding : 5px;
+  text-align: center;
+}
